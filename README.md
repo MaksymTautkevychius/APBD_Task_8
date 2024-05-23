@@ -1,2 +1,2 @@
-Dear sir, there were eccidentally created maste branch where soultion locates. 
+Dear sir, there were accidentally created master branch where soultion is locating. 
 Best regards, Tautkevychius Maksym
